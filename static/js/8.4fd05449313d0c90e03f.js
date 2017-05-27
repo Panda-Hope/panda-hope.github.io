@@ -1,2 +1,0 @@
-webpackJsonp([8],{118:function(e,t,s){var a=s(35)(s(175),s(221),null,null);e.exports=a.exports},175:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={name:"singerlist"}},221:function(e,t){e.exports={render:function(){var e=this,t=e.$createElement,s=e._self._c||t;return s("div",{staticClass:"page"},[s("mt-header",{staticClass:"music-header",attrs:{fixed:"",title:"歌手"}},[s("fallback",{slot:"left"})],1),e._v(" "),s("div",{staticClass:"page-content"})],1)},staticRenderFns:[]}}});
-//# sourceMappingURL=8.4fd05449313d0c90e03f.js.map
