@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d0b3f989.js","sources":["../../src/pages/404/index.tsx"],"sourcesContent":["const Page404 = () => {\n  return (\n    <div>404</div>\n  )\n}\n\nexport default Page404"],"names":["Page404"],"mappings":"wCAAA,MAAMA,EAAU,MAEZ,MAAA,CAAA,SAAA,KAAA,CADF"}
